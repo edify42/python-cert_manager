@@ -7,5 +7,6 @@ from .organization import Organization
 from .person import Person
 from .smime import SMIME
 from .ssl import SSL
+from .domain import Domain
 
-__all__ = ["Client", "Organization", "Pending", "Person", "SMIME", "SSL"]
+__all__ = ["Client", "Domain", "Organization", "Pending", "Person", "SMIME", "SSL"]

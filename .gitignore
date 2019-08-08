@@ -14,3 +14,8 @@ __pycache__/
 /*.egg-info
 /TemplateDemo/
 *.xml
+
+
+# My local testing
+curl-examples
+main.py
